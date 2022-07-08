@@ -16,4 +16,3 @@
 <br>
 
 [代码](https://github.com/mafqla/front-end-small-project/tree/master/new-years-countdown)
-  [file-loader文档](https://webpack.docschina.org/loaders/file-loader/)
