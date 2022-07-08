@@ -1,11 +1,13 @@
-##新年倒计时
-
-从当前日期倒计时到下一个新年的着陆页
 
 ## 项目规范
 
-- 使用 HTML/CSS 创建登录页面
-- 计算新一年的天数、小时数、分钟数和秒数
-- 将值插入 DOM
-- 在加载倒计时之前显示一个微调器
-- 在后台显示来年
+本项目记录本人学习前端的代码
+
+- 1.登录页面 <br>
+预览：<br>
+<img src="./project-images/login.png">
+  [代码](./login-and-resgister-pages)
+- 2.倒计时页面 <br>
+  预览：<br>
+  <img src="./project-images/days.png">
+  [代码](./new-years-countdown)
