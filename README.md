@@ -7,10 +7,13 @@
 预览：<br>
 <img src="./project-images/login.png">
 <br>
-代码链接[代码](https://github.com/mafqla/front-end-small-project/tree/master/login-pages)
+
+[代码](https://github.com/mafqla/front-end-small-project/tree/master/login-pages)
 <br>
 - 2.倒计时页面 <br>
   预览：<br>
   <img src="./project-images/days.png">
 <br>
-代码链接[代码](https://github.com/mafqla/front-end-small-project/tree/master/new-years-countdown)
+
+[代码](https://github.com/mafqla/front-end-small-project/tree/master/new-years-countdown)
+  [file-loader文档](https://webpack.docschina.org/loaders/file-loader/)
